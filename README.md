@@ -2,7 +2,7 @@
 # 👋 Hi there, I'm Kartikeya Sharma!  <br><br>I'm a passionate developer focused on building intuitive, scalable, and efficient web applications. 
 <br>I love exploring new technologies, learning from challenges, and contributing to impactful projects.  
 
-<br>- **LinkedIn**: [Kartikeya Sharma]([https://www.linkedin.com/in/kartikeya-sharma])  <br><br>💡 *"Building is my passion; learning is my journey."*<br>
+<br>- **LinkedIn**: [Kartikeya Sharma](https://www.linkedin.com/in/kartikeya-sharma)  <br><br>💡 *"Building is my passion; learning is my journey."*<br>
 
 
 # 💻 Tech Stack:
