@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Kartikeya+Sharma!;" />
 </h1>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhiNWR2M3k3Y2QxbTlwcnhyN3BocTNqZWIydWFxbWptdXFqcmx6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPCohbycSyPfJBK/giphy.gif" width="100" alt="Batman waving">
-</div>
 
 <h3 align="center">Passionate about crafting innovative solutions through code</h3>
 <br/>
