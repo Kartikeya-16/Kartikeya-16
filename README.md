@@ -6,29 +6,8 @@
 <h3 align="center">Passionate about crafting innovative solutions through code</h3>
 <br/>
 
-<div align="center">
  
- 🔭 I'm currently working on **enhancing my full-stack skills**
- 
- 🌱 I'm currently learning **React patterns and Python data science**
 
- 💬 Ask me about **React, Python, JavaScript, Node.js... or anything [here](https://github.com/Kartikeya-16/Kartikeya-16/issues)**
-
- ⚡ Fun fact **The first computer "bug" was an actual real-life bug**
- 
-</div>
- 
-<div align="center"> 
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kartikeya16-sharma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/Kartikeya-16" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a>
-</div>
 
 <hr/>
 
