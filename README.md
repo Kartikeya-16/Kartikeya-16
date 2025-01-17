@@ -12,7 +12,7 @@
 
 <h3 align="center">Programming Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,r" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java" />
 </div>
 
 <h3 align="center">Frontend Development</h3>
@@ -22,7 +22,7 @@
 
 <h3 align="center">Backend Development</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
 </div>
 
 <h3 align="center">Developer Tools</h3>
