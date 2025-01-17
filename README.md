@@ -1,14 +1,85 @@
-# 💫 About Me:
-# <img src="https://private-user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0NTgwNTQsIm5iZiI6MTczNTQ1Nzc1NCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI5VDA3MzU1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgxYjliMGFlYzkyODllZmI2ZWMzOWNhYTk1MzhhYTNkZGJmZGNmNWE4ZGRiODE4OWU4NTNlZWJhMzkxMWJkYzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.HdIqqtW5skWoKpOAuDf_QEW09e63uAsPMHOpL0lrPm0" style="width: 50px; display: inline-block;" data-target="animated-image.originalImage"> Hi there, I'm Kartikeya Sharma! 
-<br>I love exploring new technologies, learning from challenges, and contributing to impactful projects.  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Kartikeya+Sharma!;" />
+</h1>
 
-<br>- **LinkedIn**: [Kartikeya Sharma](https://www.linkedin.com/in/kartikeya16-sharma) <br><br>💡 *"Building is my passion; learning is my journey."*<br>
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhiNWR2M3k3Y2QxbTlwcnhyN3BocTNqZWIydWFxbWptdXFqcmx6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPCohbycSyPfJBK/giphy.gif" width="100" alt="Batman waving">
+</div>
 
+<h3 align="center">Passionate about crafting innovative solutions through code</h3>
+<br/>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kartikeya-16&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya-16&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+ 
+ 🔭 I'm currently working on **enhancing my full-stack skills**
+ 
+ 🌱 I'm currently learning **React patterns and Python data science**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 💬 Ask me about **React, Python, JavaScript, Node.js... or anything [here](https://github.com/Kartikeya-16/Kartikeya-16/issues)**
+
+ ⚡ Fun fact **The first computer "bug" was an actual real-life bug**
+ 
+</div>
+ 
+<div align="center"> 
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/kartikeya16-sharma" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Kartikeya-16" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🚀 My Contributions 🚀</h2>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartikeya-16&theme=react-dark&hide_border=true" width="95%" alt="Kartikeya's contribution graph">
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikeya-16&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Kartikeya-16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartikeya-16&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartikeya-16&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kartikeya-16&style=for-the-badge&color=blue" alt="Profile views counter" />
+</div>
