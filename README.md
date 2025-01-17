@@ -2,20 +2,32 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;I'm+Kartikeya+Sharma!;" />
 </h1>
 
-
 <h3 align="center">Passionate about crafting innovative solutions through code</h3>
 <br/>
-
- 
-
 
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<h3 align="center">Programming Languages</h3>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,r" />
+</div>
+
+<h3 align="center">Frontend Development</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,mui,tailwind" />
+</div>
+
+<h3 align="center">Backend Development</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,firebase" />
+</div>
+
+<h3 align="center">Developer Tools</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
 </div>
 
 <br/>
